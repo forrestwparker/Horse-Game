@@ -1,9 +1,4 @@
-# Created by:
-# Forrest W. Parker
-# 09/29/2016
-# 
 # Version 0.12
-# Last edit: 10/05/2016
 #
 # Written for Python 3
 
